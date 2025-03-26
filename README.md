@@ -1,3 +1,4 @@
-# futurefits
+# Future Fits
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/commit111/futurefits)
+An e-commerce website built using a StackBlitz editor. ⚡️
+
