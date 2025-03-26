@@ -1,4 +1,4 @@
 # Future Fits
 
-An e-commerce website built using StackBlitz editor, deployable with Defang ⚡️
+An e-commerce website built using StackBlitz editor, deployable with Netlify and Defang ⚡️
 
